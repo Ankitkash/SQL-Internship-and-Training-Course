@@ -14,3 +14,4 @@ This repository showcases certificates earned from various internships and train
 5. **Project Management**: Strengthened organizational skills to meet deadlines and goals.
 
 [View Certificate](Training_Certificate.pdf)
+[View Certificate](Certificate_of_completion.pdf)
