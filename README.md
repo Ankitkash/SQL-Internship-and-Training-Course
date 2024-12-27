@@ -1,7 +1,4 @@
 # SQL-Internship-and-Training-Course
-# Internship Certificates
-
-This repository showcases certificates earned from various internships and training programs. Each certificate highlights the skills and experiences gained during the programs.
 
 ## Training Certificate
 **Description**: This certificate recognizes the successful completion of my internship. 
